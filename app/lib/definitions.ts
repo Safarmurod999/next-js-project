@@ -79,3 +79,4 @@ export type InvoiceForm = {
   amount: number;
   status: 'pending' | 'paid';
 };
+  
